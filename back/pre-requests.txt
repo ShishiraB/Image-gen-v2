@@ -1,0 +1,3 @@
+python -m venv app
+.\app\Scripts\activate.bat
+.\app\Scripts\python.exe -m pip install fastapi torch transformers Pillow customtkinter diffusers accelerate
